@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Portfolio.Domain/1.0.0": {
+        "dependencies": {
+          "Portfolio.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Portfolio.Domain.dll": {}
+        }
+      },
+      "Portfolio.Contracts/1.0.0": {
+        "runtime": {
+          "Portfolio.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Portfolio.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Portfolio.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
