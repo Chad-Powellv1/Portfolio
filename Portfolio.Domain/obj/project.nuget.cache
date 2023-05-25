@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PIZ6wzaFtW6i6Oi9GWwBp5EsElQUYbIFM7WmoMxtRz7ravR/xzRYJ1Yhd/fFsJ+A2Ta5UJ9UjqvpGJSXXjGkgg==",
+  "dgSpecHash": "/kt1Jeaxji0vr5g4Vs8s1b0S6xTU2uol1K5T7kGch4Ute0nIa9pXZPmj7INcfI1pN+tB2pJRsh35nRVkEm+uNA==",
   "success": true,
   "projectFilePath": "C:\\dev\\Portfolio\\Portfolio\\Portfolio.Domain\\Portfolio.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\chada\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512"
+  ],
   "logs": []
 }
